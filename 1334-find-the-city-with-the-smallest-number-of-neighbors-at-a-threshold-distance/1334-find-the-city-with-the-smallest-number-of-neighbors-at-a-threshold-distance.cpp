@@ -29,7 +29,7 @@ public:
                     c++;
                 }
             }
-            cout<<i<<":"<<c<<"\n";
+
             if(c<=m) {
                 m=c;
                 it = i;
