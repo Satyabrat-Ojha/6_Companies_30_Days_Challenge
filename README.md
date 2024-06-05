@@ -3,12 +3,14 @@
 | ------- |
 | [0268-missing-number](https://github.com/Satyabrat-Ojha/6-Companies-30-Days/tree/master/0268-missing-number) |
 | [0300-longest-increasing-subsequence](https://github.com/Satyabrat-Ojha/6-Companies-30-Days/tree/master/0300-longest-increasing-subsequence) |
+| [0139-word-break](https://github.com/Satyabrat-Ojha/6-Companies-30-Days/tree/master/0139-word-break) |
 
 
 # Hash Table
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Satyabrat-Ojha/6-Companies-30-Days/tree/master/0268-missing-number) |
+| [0139-word-break](https://github.com/Satyabrat-Ojha/6-Companies-30-Days/tree/master/0139-word-break) |
 # Math
 |  |
 | ------- |
@@ -31,7 +33,17 @@
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/Satyabrat-Ojha/6-Companies-30-Days/tree/master/0300-longest-increasing-subsequence) |
 | [1250-longest-common-subsequence](https://github.com/Satyabrat-Ojha/6-Companies-30-Days/tree/master/1250-longest-common-subsequence) |
+| [0139-word-break](https://github.com/Satyabrat-Ojha/6-Companies-30-Days/tree/master/0139-word-break) |
 # String
 |  |
 | ------- |
 | [1250-longest-common-subsequence](https://github.com/Satyabrat-Ojha/6-Companies-30-Days/tree/master/1250-longest-common-subsequence) |
+| [0139-word-break](https://github.com/Satyabrat-Ojha/6-Companies-30-Days/tree/master/0139-word-break) |
+# Trie
+|  |
+| ------- |
+| [0139-word-break](https://github.com/Satyabrat-Ojha/6-Companies-30-Days/tree/master/0139-word-break) |
+# Memoization
+|  |
+| ------- |
+| [0139-word-break](https://github.com/Satyabrat-Ojha/6-Companies-30-Days/tree/master/0139-word-break) |
