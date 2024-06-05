@@ -30,3 +30,8 @@
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/Satyabrat-Ojha/6-Companies-30-Days/tree/master/0300-longest-increasing-subsequence) |
+| [1250-longest-common-subsequence](https://github.com/Satyabrat-Ojha/6-Companies-30-Days/tree/master/1250-longest-common-subsequence) |
+# String
+|  |
+| ------- |
+| [1250-longest-common-subsequence](https://github.com/Satyabrat-Ojha/6-Companies-30-Days/tree/master/1250-longest-common-subsequence) |
