@@ -6,6 +6,7 @@
 | [0139-word-break](https://github.com/Satyabrat-Ojha/6-Companies-30-Days/tree/master/0139-word-break) |
 | [0216-combination-sum-iii](https://github.com/Satyabrat-Ojha/6-Companies-30-Days/tree/master/0216-combination-sum-iii) |
 | [0198-house-robber](https://github.com/Satyabrat-Ojha/6-Companies-30-Days/tree/master/0198-house-robber) |
+| [0055-jump-game](https://github.com/Satyabrat-Ojha/6-Companies-30-Days/tree/master/0055-jump-game) |
 
 
 # Hash Table
@@ -40,6 +41,7 @@
 | [0198-house-robber](https://github.com/Satyabrat-Ojha/6-Companies-30-Days/tree/master/0198-house-robber) |
 | [0091-decode-ways](https://github.com/Satyabrat-Ojha/6-Companies-30-Days/tree/master/0091-decode-ways) |
 | [0062-unique-paths](https://github.com/Satyabrat-Ojha/6-Companies-30-Days/tree/master/0062-unique-paths) |
+| [0055-jump-game](https://github.com/Satyabrat-Ojha/6-Companies-30-Days/tree/master/0055-jump-game) |
 # String
 |  |
 | ------- |
@@ -62,3 +64,7 @@
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Satyabrat-Ojha/6-Companies-30-Days/tree/master/0062-unique-paths) |
+# Greedy
+|  |
+| ------- |
+| [0055-jump-game](https://github.com/Satyabrat-Ojha/6-Companies-30-Days/tree/master/0055-jump-game) |
