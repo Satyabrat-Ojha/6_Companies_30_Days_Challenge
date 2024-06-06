@@ -4,6 +4,7 @@
 | [0268-missing-number](https://github.com/Satyabrat-Ojha/6-Companies-30-Days/tree/master/0268-missing-number) |
 | [0300-longest-increasing-subsequence](https://github.com/Satyabrat-Ojha/6-Companies-30-Days/tree/master/0300-longest-increasing-subsequence) |
 | [0139-word-break](https://github.com/Satyabrat-Ojha/6-Companies-30-Days/tree/master/0139-word-break) |
+| [0216-combination-sum-iii](https://github.com/Satyabrat-Ojha/6-Companies-30-Days/tree/master/0216-combination-sum-iii) |
 
 
 # Hash Table
@@ -47,3 +48,7 @@
 |  |
 | ------- |
 | [0139-word-break](https://github.com/Satyabrat-Ojha/6-Companies-30-Days/tree/master/0139-word-break) |
+# Backtracking
+|  |
+| ------- |
+| [0216-combination-sum-iii](https://github.com/Satyabrat-Ojha/6-Companies-30-Days/tree/master/0216-combination-sum-iii) |
