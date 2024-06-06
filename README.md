@@ -37,11 +37,13 @@
 | [1250-longest-common-subsequence](https://github.com/Satyabrat-Ojha/6-Companies-30-Days/tree/master/1250-longest-common-subsequence) |
 | [0139-word-break](https://github.com/Satyabrat-Ojha/6-Companies-30-Days/tree/master/0139-word-break) |
 | [0198-house-robber](https://github.com/Satyabrat-Ojha/6-Companies-30-Days/tree/master/0198-house-robber) |
+| [0091-decode-ways](https://github.com/Satyabrat-Ojha/6-Companies-30-Days/tree/master/0091-decode-ways) |
 # String
 |  |
 | ------- |
 | [1250-longest-common-subsequence](https://github.com/Satyabrat-Ojha/6-Companies-30-Days/tree/master/1250-longest-common-subsequence) |
 | [0139-word-break](https://github.com/Satyabrat-Ojha/6-Companies-30-Days/tree/master/0139-word-break) |
+| [0091-decode-ways](https://github.com/Satyabrat-Ojha/6-Companies-30-Days/tree/master/0091-decode-ways) |
 # Trie
 |  |
 | ------- |
