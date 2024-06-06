@@ -17,6 +17,7 @@
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Satyabrat-Ojha/6-Companies-30-Days/tree/master/0268-missing-number) |
+| [0062-unique-paths](https://github.com/Satyabrat-Ojha/6-Companies-30-Days/tree/master/0062-unique-paths) |
 # Binary Search
 |  |
 | ------- |
@@ -38,6 +39,7 @@
 | [0139-word-break](https://github.com/Satyabrat-Ojha/6-Companies-30-Days/tree/master/0139-word-break) |
 | [0198-house-robber](https://github.com/Satyabrat-Ojha/6-Companies-30-Days/tree/master/0198-house-robber) |
 | [0091-decode-ways](https://github.com/Satyabrat-Ojha/6-Companies-30-Days/tree/master/0091-decode-ways) |
+| [0062-unique-paths](https://github.com/Satyabrat-Ojha/6-Companies-30-Days/tree/master/0062-unique-paths) |
 # String
 |  |
 | ------- |
@@ -56,3 +58,7 @@
 |  |
 | ------- |
 | [0216-combination-sum-iii](https://github.com/Satyabrat-Ojha/6-Companies-30-Days/tree/master/0216-combination-sum-iii) |
+# Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/Satyabrat-Ojha/6-Companies-30-Days/tree/master/0062-unique-paths) |
