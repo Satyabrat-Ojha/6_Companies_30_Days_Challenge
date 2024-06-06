@@ -1,23 +1,25 @@
 class Solution {
-    vector<vector<int>> ans;
 public:
+    vector<vector<int>> res;
+
     vector<vector<int>> combinationSum3(int k, int n) {
-        ans.clear();
-        vector<int>a;
-        solve(a,0,k,n);
-        return ans;
+        res.clear();
+        vector<int> temp;
+        helper(1,k,n,temp);
+        return res;
     }
 
-    void solve(vector<int> &v, int c, int k, int n) {
-        if(v.size()==k && n==0) ans.push_back(v);
-        if(v.size()>=k) return;
-        if(c==9) return;
+    void helper(int i, int k, int n, vector<int> &temp) {
+        if(k==0 && n==0) {
+            res.push_back(temp);
+            return;
+        }
 
-        c++;
-        solve(v,c,k,n);
-        v.push_back(c);
-        n-=c;
-        solve(v,c,k,n);
-        v.pop_back();
+        if(n<0 || k<0 || i>9) return;
+
+        temp.push_back(i);
+        helper(i+1, k-1, n-i, temp);
+        temp.pop_back();
+        helper(i+1, k, n, temp);
     }
 };
