@@ -73,3 +73,4 @@
 | ------- |
 | [1908-recyclable-and-low-fat-products](https://github.com/Satyabrat-Ojha/6-Companies-30-Days/tree/master/1908-recyclable-and-low-fat-products) |
 | [0584-find-customer-referee](https://github.com/Satyabrat-Ojha/6-Companies-30-Days/tree/master/0584-find-customer-referee) |
+| [1258-article-views-i](https://github.com/Satyabrat-Ojha/6-Companies-30-Days/tree/master/1258-article-views-i) |
