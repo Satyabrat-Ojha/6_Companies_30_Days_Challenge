@@ -68,3 +68,7 @@
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/Satyabrat-Ojha/6-Companies-30-Days/tree/master/0055-jump-game) |
+# Database
+|  |
+| ------- |
+| [1908-recyclable-and-low-fat-products](https://github.com/Satyabrat-Ojha/6-Companies-30-Days/tree/master/1908-recyclable-and-low-fat-products) |
