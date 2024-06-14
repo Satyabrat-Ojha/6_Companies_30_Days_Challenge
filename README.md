@@ -82,3 +82,4 @@
 | [1415-students-and-examinations](https://github.com/Satyabrat-Ojha/6-Companies-30-Days/tree/master/1415-students-and-examinations) |
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/Satyabrat-Ojha/6-Companies-30-Days/tree/master/0570-managers-with-at-least-5-direct-reports) |
 | [1801-average-time-of-process-per-machine](https://github.com/Satyabrat-Ojha/6-Companies-30-Days/tree/master/1801-average-time-of-process-per-machine) |
+| [2087-confirmation-rate](https://github.com/Satyabrat-Ojha/6-Companies-30-Days/tree/master/2087-confirmation-rate) |
