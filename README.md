@@ -84,3 +84,4 @@
 | [1801-average-time-of-process-per-machine](https://github.com/Satyabrat-Ojha/6-Companies-30-Days/tree/master/1801-average-time-of-process-per-machine) |
 | [2087-confirmation-rate](https://github.com/Satyabrat-Ojha/6-Companies-30-Days/tree/master/2087-confirmation-rate) |
 | [0620-not-boring-movies](https://github.com/Satyabrat-Ojha/6-Companies-30-Days/tree/master/0620-not-boring-movies) |
+| [1390-average-selling-price](https://github.com/Satyabrat-Ojha/6-Companies-30-Days/tree/master/1390-average-selling-price) |
