@@ -87,3 +87,4 @@
 | [1390-average-selling-price](https://github.com/Satyabrat-Ojha/6-Companies-30-Days/tree/master/1390-average-selling-price) |
 | [1338-queries-quality-and-percentage](https://github.com/Satyabrat-Ojha/6-Companies-30-Days/tree/master/1338-queries-quality-and-percentage) |
 | [1317-monthly-transactions-i](https://github.com/Satyabrat-Ojha/6-Companies-30-Days/tree/master/1317-monthly-transactions-i) |
+| [1292-immediate-food-delivery-ii](https://github.com/Satyabrat-Ojha/6-Companies-30-Days/tree/master/1292-immediate-food-delivery-ii) |
