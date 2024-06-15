@@ -1,6 +1,6 @@
 SELECT 
-m.employee_id AS employee_id, 
-m.name AS name,
+m.employee_id, 
+m.name,
 COUNT(*) AS reports_count,
 ROUND(AVG(e.age)) AS average_age 
 FROM Employees e LEFT JOIN Employees m
