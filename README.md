@@ -14,6 +14,7 @@
 | ------- |
 | [0268-missing-number](https://github.com/Satyabrat-Ojha/6-Companies-30-Days/tree/master/0268-missing-number) |
 | [0139-word-break](https://github.com/Satyabrat-Ojha/6-Companies-30-Days/tree/master/0139-word-break) |
+| [0133-clone-graph](https://github.com/Satyabrat-Ojha/6-Companies-30-Days/tree/master/0133-clone-graph) |
 # Math
 |  |
 | ------- |
@@ -96,3 +97,15 @@
 | [1882-the-number-of-employees-which-report-to-each-employee](https://github.com/Satyabrat-Ojha/6-Companies-30-Days/tree/master/1882-the-number-of-employees-which-report-to-each-employee) |
 | [1942-primary-department-for-each-employee](https://github.com/Satyabrat-Ojha/6-Companies-30-Days/tree/master/1942-primary-department-for-each-employee) |
 | [0610-triangle-judgement](https://github.com/Satyabrat-Ojha/6-Companies-30-Days/tree/master/0610-triangle-judgement) |
+# Depth-First Search
+|  |
+| ------- |
+| [0133-clone-graph](https://github.com/Satyabrat-Ojha/6-Companies-30-Days/tree/master/0133-clone-graph) |
+# Breadth-First Search
+|  |
+| ------- |
+| [0133-clone-graph](https://github.com/Satyabrat-Ojha/6-Companies-30-Days/tree/master/0133-clone-graph) |
+# Graph
+|  |
+| ------- |
+| [0133-clone-graph](https://github.com/Satyabrat-Ojha/6-Companies-30-Days/tree/master/0133-clone-graph) |
