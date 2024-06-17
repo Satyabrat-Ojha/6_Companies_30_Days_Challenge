@@ -99,6 +99,7 @@
 | [1942-primary-department-for-each-employee](https://github.com/Satyabrat-Ojha/6-Companies-30-Days/tree/master/1942-primary-department-for-each-employee) |
 | [0610-triangle-judgement](https://github.com/Satyabrat-Ojha/6-Companies-30-Days/tree/master/0610-triangle-judgement) |
 | [0180-consecutive-numbers](https://github.com/Satyabrat-Ojha/6-Companies-30-Days/tree/master/0180-consecutive-numbers) |
+| [1278-product-price-at-a-given-date](https://github.com/Satyabrat-Ojha/6-Companies-30-Days/tree/master/1278-product-price-at-a-given-date) |
 # Depth-First Search
 |  |
 | ------- |
