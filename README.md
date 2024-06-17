@@ -98,6 +98,7 @@
 | [1882-the-number-of-employees-which-report-to-each-employee](https://github.com/Satyabrat-Ojha/6-Companies-30-Days/tree/master/1882-the-number-of-employees-which-report-to-each-employee) |
 | [1942-primary-department-for-each-employee](https://github.com/Satyabrat-Ojha/6-Companies-30-Days/tree/master/1942-primary-department-for-each-employee) |
 | [0610-triangle-judgement](https://github.com/Satyabrat-Ojha/6-Companies-30-Days/tree/master/0610-triangle-judgement) |
+| [0180-consecutive-numbers](https://github.com/Satyabrat-Ojha/6-Companies-30-Days/tree/master/0180-consecutive-numbers) |
 # Depth-First Search
 |  |
 | ------- |
