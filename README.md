@@ -7,6 +7,7 @@
 | [0216-combination-sum-iii](https://github.com/Satyabrat-Ojha/6-Companies-30-Days/tree/master/0216-combination-sum-iii) |
 | [0198-house-robber](https://github.com/Satyabrat-Ojha/6-Companies-30-Days/tree/master/0198-house-robber) |
 | [0055-jump-game](https://github.com/Satyabrat-Ojha/6-Companies-30-Days/tree/master/0055-jump-game) |
+| [0200-number-of-islands](https://github.com/Satyabrat-Ojha/6-Companies-30-Days/tree/master/0200-number-of-islands) |
 
 
 # Hash Table
@@ -102,11 +103,13 @@
 | ------- |
 | [0133-clone-graph](https://github.com/Satyabrat-Ojha/6-Companies-30-Days/tree/master/0133-clone-graph) |
 | [0207-course-schedule](https://github.com/Satyabrat-Ojha/6-Companies-30-Days/tree/master/0207-course-schedule) |
+| [0200-number-of-islands](https://github.com/Satyabrat-Ojha/6-Companies-30-Days/tree/master/0200-number-of-islands) |
 # Breadth-First Search
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/Satyabrat-Ojha/6-Companies-30-Days/tree/master/0133-clone-graph) |
 | [0207-course-schedule](https://github.com/Satyabrat-Ojha/6-Companies-30-Days/tree/master/0207-course-schedule) |
+| [0200-number-of-islands](https://github.com/Satyabrat-Ojha/6-Companies-30-Days/tree/master/0200-number-of-islands) |
 # Graph
 |  |
 | ------- |
@@ -116,3 +119,11 @@
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/Satyabrat-Ojha/6-Companies-30-Days/tree/master/0207-course-schedule) |
+# Union Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/Satyabrat-Ojha/6-Companies-30-Days/tree/master/0200-number-of-islands) |
+# Matrix
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/Satyabrat-Ojha/6-Companies-30-Days/tree/master/0200-number-of-islands) |
