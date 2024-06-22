@@ -140,10 +140,12 @@
 | ------- |
 | [0206-reverse-linked-list](https://github.com/Satyabrat-Ojha/6-Companies-30-Days/tree/master/0206-reverse-linked-list) |
 | [0141-linked-list-cycle](https://github.com/Satyabrat-Ojha/6-Companies-30-Days/tree/master/0141-linked-list-cycle) |
+| [0021-merge-two-sorted-lists](https://github.com/Satyabrat-Ojha/6-Companies-30-Days/tree/master/0021-merge-two-sorted-lists) |
 # Recursion
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/Satyabrat-Ojha/6-Companies-30-Days/tree/master/0206-reverse-linked-list) |
+| [0021-merge-two-sorted-lists](https://github.com/Satyabrat-Ojha/6-Companies-30-Days/tree/master/0021-merge-two-sorted-lists) |
 # Two Pointers
 |  |
 | ------- |
