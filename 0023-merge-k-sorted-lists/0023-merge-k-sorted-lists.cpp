@@ -8,40 +8,26 @@
  *     ListNode(int x, ListNode *next) : val(x), next(next) {}
  * };
  */
-
 class Solution {
 public:
-    struct compare {
-        bool operator()(const ListNode* l1, const ListNode* l2) {
-            return l1->val > l2->val;
-        }
-    };
-
     ListNode* mergeKLists(vector<ListNode*>& lists) {
-        priority_queue<ListNode*, vector<ListNode*>, compare> pq;
+        set<pair<int,ListNode*>> s;
+        auto head = new ListNode(0);
+        auto tail = head;
 
-        for(auto list:lists) {
-            if(list != NULL) {
-                pq.push({list});
-            }
+        for(auto list:lists)
+            if(list) s.insert({list->val, list});
+
+        while(!s.empty()) {
+            auto node = (*s.begin()).second;
+            s.erase(s.begin());
+
+            if(node->next) s.insert({node->next->val, node->next});
+
+            tail->next = node;
+            tail = tail->next;
         }
 
-        if(pq.empty()) return NULL;
-        auto ans = new ListNode(pq.top()->val);
-        auto tail = ans;
-        if(pq.top()->next != NULL)
-            pq.push(pq.top()->next);
-        pq.pop();
-
-        while(!pq.empty()) {
-            auto temp = new ListNode(pq.top()->val);
-            tail->next = temp;
-            tail = temp;
-            if(pq.top()->next != NULL)
-                pq.push(pq.top()->next);
-            pq.pop();
-        }
-
-        return ans;
+        return head->next;
     }
 };
