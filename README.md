@@ -17,6 +17,7 @@
 | [0268-missing-number](https://github.com/Satyabrat-Ojha/6-Companies-30-Days/tree/master/0268-missing-number) |
 | [0139-word-break](https://github.com/Satyabrat-Ojha/6-Companies-30-Days/tree/master/0139-word-break) |
 | [0133-clone-graph](https://github.com/Satyabrat-Ojha/6-Companies-30-Days/tree/master/0133-clone-graph) |
+| [0141-linked-list-cycle](https://github.com/Satyabrat-Ojha/6-Companies-30-Days/tree/master/0141-linked-list-cycle) |
 # Math
 |  |
 | ------- |
@@ -138,7 +139,12 @@
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/Satyabrat-Ojha/6-Companies-30-Days/tree/master/0206-reverse-linked-list) |
+| [0141-linked-list-cycle](https://github.com/Satyabrat-Ojha/6-Companies-30-Days/tree/master/0141-linked-list-cycle) |
 # Recursion
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/Satyabrat-Ojha/6-Companies-30-Days/tree/master/0206-reverse-linked-list) |
+# Two Pointers
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/Satyabrat-Ojha/6-Companies-30-Days/tree/master/0141-linked-list-cycle) |
