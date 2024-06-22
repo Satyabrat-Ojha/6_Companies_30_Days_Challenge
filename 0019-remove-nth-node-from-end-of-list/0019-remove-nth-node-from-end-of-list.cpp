@@ -20,7 +20,9 @@ public:
 
     void remove(int n, ListNode* head) {
         while(n > 1) { head = head->next; n--; }
+        auto node = head->next;
         head->next = head->next->next;
+        delete(node);
     }
 
     int size(ListNode* head) {
