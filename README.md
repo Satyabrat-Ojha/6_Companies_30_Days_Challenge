@@ -9,6 +9,7 @@
 | [0055-jump-game](https://github.com/Satyabrat-Ojha/6-Companies-30-Days/tree/master/0055-jump-game) |
 | [0200-number-of-islands](https://github.com/Satyabrat-Ojha/6-Companies-30-Days/tree/master/0200-number-of-islands) |
 | [0435-non-overlapping-intervals](https://github.com/Satyabrat-Ojha/6-Companies-30-Days/tree/master/0435-non-overlapping-intervals) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Satyabrat-Ojha/6-Companies-30-Days/tree/master/0026-remove-duplicates-from-sorted-array) |
 
 
 # Hash Table
@@ -153,6 +154,7 @@
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Satyabrat-Ojha/6-Companies-30-Days/tree/master/0141-linked-list-cycle) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Satyabrat-Ojha/6-Companies-30-Days/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Satyabrat-Ojha/6-Companies-30-Days/tree/master/0026-remove-duplicates-from-sorted-array) |
 # Divide and Conquer
 |  |
 | ------- |
