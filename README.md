@@ -173,6 +173,7 @@
 |  |
 | ------- |
 | [0079-word-search](https://github.com/Satyabrat-Ojha/6-Companies-30-Days/tree/master/0079-word-search) |
+| [0347-top-k-frequent-elements](https://github.com/Satyabrat-Ojha/6-Companies-30-Days/tree/master/0347-top-k-frequent-elements) |
 ## String
 |  |
 | ------- |
@@ -185,4 +186,32 @@
 |  |
 | ------- |
 | [0079-word-search](https://github.com/Satyabrat-Ojha/6-Companies-30-Days/tree/master/0079-word-search) |
+## Hash Table
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Satyabrat-Ojha/6-Companies-30-Days/tree/master/0347-top-k-frequent-elements) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Satyabrat-Ojha/6-Companies-30-Days/tree/master/0347-top-k-frequent-elements) |
+## Sorting
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Satyabrat-Ojha/6-Companies-30-Days/tree/master/0347-top-k-frequent-elements) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Satyabrat-Ojha/6-Companies-30-Days/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Satyabrat-Ojha/6-Companies-30-Days/tree/master/0347-top-k-frequent-elements) |
+## Counting
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Satyabrat-Ojha/6-Companies-30-Days/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Satyabrat-Ojha/6-Companies-30-Days/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
