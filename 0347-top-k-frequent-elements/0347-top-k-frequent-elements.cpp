@@ -8,7 +8,7 @@ public:
         for(auto [key,val]:m) bucket[val].push_back(key);
         vector<int> ans;
         for(int i=n;i>=0 && ans.size()<k;i--) {
-            while(!bucket.back().empty() && ans.size()<k) {
+            while(!bucket.back().empty()) {
                 ans.push_back(bucket.back().back());
                 bucket.back().pop_back();
             }
