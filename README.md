@@ -167,3 +167,22 @@
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Satyabrat-Ojha/6-Companies-30-Days/tree/master/0023-merge-k-sorted-lists) |
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [0079-word-search](https://github.com/Satyabrat-Ojha/6-Companies-30-Days/tree/master/0079-word-search) |
+## String
+|  |
+| ------- |
+| [0079-word-search](https://github.com/Satyabrat-Ojha/6-Companies-30-Days/tree/master/0079-word-search) |
+## Backtracking
+|  |
+| ------- |
+| [0079-word-search](https://github.com/Satyabrat-Ojha/6-Companies-30-Days/tree/master/0079-word-search) |
+## Matrix
+|  |
+| ------- |
+| [0079-word-search](https://github.com/Satyabrat-Ojha/6-Companies-30-Days/tree/master/0079-word-search) |
+<!---LeetCode Topics End-->
