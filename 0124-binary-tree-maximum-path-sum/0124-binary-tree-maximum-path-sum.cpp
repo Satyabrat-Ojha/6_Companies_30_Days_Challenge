@@ -11,19 +11,17 @@
  */
 class Solution {
     int ans;
-    map<TreeNode*, int> m;
 public:
     int maxPathSum(TreeNode* root) {
         ans = root->val;
-        m.clear();
         pathSum(root);
         return ans;
     }
 
     int pathSum(TreeNode* root) {
         if(!root) return 0;
-        if(m[root]) return m[root];
-        ans = max(ans, max(0, pathSum(root->left)) + max(0, pathSum(root->right)) + root->val);
-        return m[root] = max({0, pathSum(root->left), pathSum(root->right)})+ root->val;
+        int a = max(0, pathSum(root->left)), b = max(0, pathSum(root->right));
+        ans = max(ans, a + b + root->val);
+        return max(a, b)+ root->val;
     }
 };
