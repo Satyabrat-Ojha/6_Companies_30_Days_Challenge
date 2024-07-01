@@ -247,4 +247,17 @@
 |  |
 | ------- |
 | [0211-design-add-and-search-words-data-structure](https://github.com/Satyabrat-Ojha/6-Companies-30-Days/tree/master/0211-design-add-and-search-words-data-structure) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Satyabrat-Ojha/6-Companies-30-Days/tree/master/0104-maximum-depth-of-binary-tree) |
+## Tree
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Satyabrat-Ojha/6-Companies-30-Days/tree/master/0104-maximum-depth-of-binary-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Satyabrat-Ojha/6-Companies-30-Days/tree/master/0104-maximum-depth-of-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Satyabrat-Ojha/6-Companies-30-Days/tree/master/0104-maximum-depth-of-binary-tree) |
 <!---LeetCode Topics End-->
