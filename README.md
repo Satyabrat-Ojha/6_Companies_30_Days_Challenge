@@ -178,6 +178,7 @@
 |  |
 | ------- |
 | [0079-word-search](https://github.com/Satyabrat-Ojha/6-Companies-30-Days/tree/master/0079-word-search) |
+| [0208-implement-trie-prefix-tree](https://github.com/Satyabrat-Ojha/6-Companies-30-Days/tree/master/0208-implement-trie-prefix-tree) |
 ## Backtracking
 |  |
 | ------- |
@@ -190,6 +191,7 @@
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Satyabrat-Ojha/6-Companies-30-Days/tree/master/0347-top-k-frequent-elements) |
+| [0208-implement-trie-prefix-tree](https://github.com/Satyabrat-Ojha/6-Companies-30-Days/tree/master/0208-implement-trie-prefix-tree) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -224,8 +226,13 @@
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/Satyabrat-Ojha/6-Companies-30-Days/tree/master/0295-find-median-from-data-stream) |
+| [0208-implement-trie-prefix-tree](https://github.com/Satyabrat-Ojha/6-Companies-30-Days/tree/master/0208-implement-trie-prefix-tree) |
 ## Data Stream
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/Satyabrat-Ojha/6-Companies-30-Days/tree/master/0295-find-median-from-data-stream) |
+## Trie
+|  |
+| ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/Satyabrat-Ojha/6-Companies-30-Days/tree/master/0208-implement-trie-prefix-tree) |
 <!---LeetCode Topics End-->
