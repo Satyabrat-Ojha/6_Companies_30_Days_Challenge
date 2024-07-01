@@ -198,10 +198,12 @@
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Satyabrat-Ojha/6-Companies-30-Days/tree/master/0347-top-k-frequent-elements) |
+| [0295-find-median-from-data-stream](https://github.com/Satyabrat-Ojha/6-Companies-30-Days/tree/master/0295-find-median-from-data-stream) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Satyabrat-Ojha/6-Companies-30-Days/tree/master/0347-top-k-frequent-elements) |
+| [0295-find-median-from-data-stream](https://github.com/Satyabrat-Ojha/6-Companies-30-Days/tree/master/0295-find-median-from-data-stream) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -214,4 +216,16 @@
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Satyabrat-Ojha/6-Companies-30-Days/tree/master/0347-top-k-frequent-elements) |
+## Two Pointers
+|  |
+| ------- |
+| [0295-find-median-from-data-stream](https://github.com/Satyabrat-Ojha/6-Companies-30-Days/tree/master/0295-find-median-from-data-stream) |
+## Design
+|  |
+| ------- |
+| [0295-find-median-from-data-stream](https://github.com/Satyabrat-Ojha/6-Companies-30-Days/tree/master/0295-find-median-from-data-stream) |
+## Data Stream
+|  |
+| ------- |
+| [0295-find-median-from-data-stream](https://github.com/Satyabrat-Ojha/6-Companies-30-Days/tree/master/0295-find-median-from-data-stream) |
 <!---LeetCode Topics End-->
