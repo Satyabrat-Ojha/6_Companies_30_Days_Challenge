@@ -182,6 +182,7 @@
 | [0208-implement-trie-prefix-tree](https://github.com/Satyabrat-Ojha/6-Companies-30-Days/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/Satyabrat-Ojha/6-Companies-30-Days/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0212-word-search-ii](https://github.com/Satyabrat-Ojha/6-Companies-30-Days/tree/master/0212-word-search-ii) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Satyabrat-Ojha/6-Companies-30-Days/tree/master/0297-serialize-and-deserialize-binary-tree) |
 ## Backtracking
 |  |
 | ------- |
@@ -233,6 +234,7 @@
 | [0295-find-median-from-data-stream](https://github.com/Satyabrat-Ojha/6-Companies-30-Days/tree/master/0295-find-median-from-data-stream) |
 | [0208-implement-trie-prefix-tree](https://github.com/Satyabrat-Ojha/6-Companies-30-Days/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/Satyabrat-Ojha/6-Companies-30-Days/tree/master/0211-design-add-and-search-words-data-structure) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Satyabrat-Ojha/6-Companies-30-Days/tree/master/0297-serialize-and-deserialize-binary-tree) |
 ## Data Stream
 |  |
 | ------- |
@@ -250,23 +252,27 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/Satyabrat-Ojha/6-Companies-30-Days/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/Satyabrat-Ojha/6-Companies-30-Days/tree/master/0226-invert-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Satyabrat-Ojha/6-Companies-30-Days/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Satyabrat-Ojha/6-Companies-30-Days/tree/master/0297-serialize-and-deserialize-binary-tree) |
 ## Tree
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Satyabrat-Ojha/6-Companies-30-Days/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/Satyabrat-Ojha/6-Companies-30-Days/tree/master/0226-invert-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Satyabrat-Ojha/6-Companies-30-Days/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Satyabrat-Ojha/6-Companies-30-Days/tree/master/0297-serialize-and-deserialize-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Satyabrat-Ojha/6-Companies-30-Days/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/Satyabrat-Ojha/6-Companies-30-Days/tree/master/0226-invert-binary-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Satyabrat-Ojha/6-Companies-30-Days/tree/master/0297-serialize-and-deserialize-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Satyabrat-Ojha/6-Companies-30-Days/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/Satyabrat-Ojha/6-Companies-30-Days/tree/master/0226-invert-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Satyabrat-Ojha/6-Companies-30-Days/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Satyabrat-Ojha/6-Companies-30-Days/tree/master/0297-serialize-and-deserialize-binary-tree) |
 ## Dynamic Programming
 |  |
 | ------- |
