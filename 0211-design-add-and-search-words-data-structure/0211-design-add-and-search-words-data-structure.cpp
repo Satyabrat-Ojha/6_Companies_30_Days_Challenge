@@ -1,46 +1,39 @@
-class TrieNode {
+class Node {
 public:
-    TrieNode *child[26];
-    bool isWord;
-    TrieNode() {
-        isWord = 0;
-        for(auto &c:child) c = nullptr;
-    }
+    vector<Node*> child;
+    int isEnd;
+    Node() { child.assign(26, nullptr); isEnd = 0; }
 };
 
 class WordDictionary {
-    TrieNode *root;
+    Node* root;
 public:
     WordDictionary() {
-        root = new TrieNode();
+        root = new Node();
     }
     
     void addWord(string word) {
-        auto t = root;
-        for(auto c:word) {
-            int i = c - 'a';
-            if(!t->child[i]) t->child[i] = new TrieNode();
-            t = t->child[i];
+        Node* node = root;
+        for(auto w:word) {
+            int i = w-'a';
+            if(!node->child[i]) node->child[i] = new Node();
+            node = node->child[i];
         }
-        t->isWord = 1;
+        node->isEnd = 1;
+    }
+
+    bool search(string word) {
+        return _search(word, root);
     }
     
-    bool search(string word) {
-        return searchH(word,root);
-    }
+private:
+    bool _search(string word, Node* node) {
+        if(!node) return 0;
+        if(word.empty()) return node->isEnd;
+        if(word[0] != '.') return _search(word.substr(1), node->child[word[0]-'a']);
 
-    bool searchH(string word, TrieNode* t) {
-        if(word.empty()) return t->isWord;
-
-        if(word[0] != '.') {
-            int i = word[0] - 'a';
-            if(!t->child[i]) return 0;
-            return searchH(word.substr(1), t->child[i]);
-        }
-
-        for(int i=0;i<26;i++)
-            if(t->child[i] && searchH(word.substr(1), t->child[i]))
-                return 1;
+        for(auto c : node->child)
+            if(_search(word.substr(1), c)) return 1;
 
         return 0;
     }
