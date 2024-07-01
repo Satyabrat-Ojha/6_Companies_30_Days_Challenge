@@ -249,11 +249,13 @@
 | [0211-design-add-and-search-words-data-structure](https://github.com/Satyabrat-Ojha/6-Companies-30-Days/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Satyabrat-Ojha/6-Companies-30-Days/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/Satyabrat-Ojha/6-Companies-30-Days/tree/master/0226-invert-binary-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Satyabrat-Ojha/6-Companies-30-Days/tree/master/0124-binary-tree-maximum-path-sum) |
 ## Tree
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Satyabrat-Ojha/6-Companies-30-Days/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/Satyabrat-Ojha/6-Companies-30-Days/tree/master/0226-invert-binary-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Satyabrat-Ojha/6-Companies-30-Days/tree/master/0124-binary-tree-maximum-path-sum) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -264,4 +266,9 @@
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Satyabrat-Ojha/6-Companies-30-Days/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/Satyabrat-Ojha/6-Companies-30-Days/tree/master/0226-invert-binary-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Satyabrat-Ojha/6-Companies-30-Days/tree/master/0124-binary-tree-maximum-path-sum) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Satyabrat-Ojha/6-Companies-30-Days/tree/master/0124-binary-tree-maximum-path-sum) |
 <!---LeetCode Topics End-->
