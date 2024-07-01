@@ -179,6 +179,7 @@
 | ------- |
 | [0079-word-search](https://github.com/Satyabrat-Ojha/6-Companies-30-Days/tree/master/0079-word-search) |
 | [0208-implement-trie-prefix-tree](https://github.com/Satyabrat-Ojha/6-Companies-30-Days/tree/master/0208-implement-trie-prefix-tree) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/Satyabrat-Ojha/6-Companies-30-Days/tree/master/0211-design-add-and-search-words-data-structure) |
 ## Backtracking
 |  |
 | ------- |
@@ -227,6 +228,7 @@
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/Satyabrat-Ojha/6-Companies-30-Days/tree/master/0295-find-median-from-data-stream) |
 | [0208-implement-trie-prefix-tree](https://github.com/Satyabrat-Ojha/6-Companies-30-Days/tree/master/0208-implement-trie-prefix-tree) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/Satyabrat-Ojha/6-Companies-30-Days/tree/master/0211-design-add-and-search-words-data-structure) |
 ## Data Stream
 |  |
 | ------- |
@@ -235,4 +237,9 @@
 |  |
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/Satyabrat-Ojha/6-Companies-30-Days/tree/master/0208-implement-trie-prefix-tree) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/Satyabrat-Ojha/6-Companies-30-Days/tree/master/0211-design-add-and-search-words-data-structure) |
+## Depth-First Search
+|  |
+| ------- |
+| [0211-design-add-and-search-words-data-structure](https://github.com/Satyabrat-Ojha/6-Companies-30-Days/tree/master/0211-design-add-and-search-words-data-structure) |
 <!---LeetCode Topics End-->
