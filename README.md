@@ -257,6 +257,7 @@
 | [0124-binary-tree-maximum-path-sum](https://github.com/Satyabrat-Ojha/6-Companies-30-Days/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Satyabrat-Ojha/6-Companies-30-Days/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Satyabrat-Ojha/6-Companies-30-Days/tree/master/0572-subtree-of-another-tree) |
+| [0098-validate-binary-search-tree](https://github.com/Satyabrat-Ojha/6-Companies-30-Days/tree/master/0098-validate-binary-search-tree) |
 ## Tree
 |  |
 | ------- |
@@ -266,6 +267,7 @@
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Satyabrat-Ojha/6-Companies-30-Days/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Satyabrat-Ojha/6-Companies-30-Days/tree/master/0572-subtree-of-another-tree) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Satyabrat-Ojha/6-Companies-30-Days/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0098-validate-binary-search-tree](https://github.com/Satyabrat-Ojha/6-Companies-30-Days/tree/master/0098-validate-binary-search-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -281,6 +283,7 @@
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Satyabrat-Ojha/6-Companies-30-Days/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Satyabrat-Ojha/6-Companies-30-Days/tree/master/0572-subtree-of-another-tree) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Satyabrat-Ojha/6-Companies-30-Days/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0098-validate-binary-search-tree](https://github.com/Satyabrat-Ojha/6-Companies-30-Days/tree/master/0098-validate-binary-search-tree) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -293,4 +296,8 @@
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/Satyabrat-Ojha/6-Companies-30-Days/tree/master/0572-subtree-of-another-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0098-validate-binary-search-tree](https://github.com/Satyabrat-Ojha/6-Companies-30-Days/tree/master/0098-validate-binary-search-tree) |
 <!---LeetCode Topics End-->
