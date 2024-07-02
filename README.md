@@ -175,6 +175,7 @@
 | [0079-word-search](https://github.com/Satyabrat-Ojha/6-Companies-30-Days/tree/master/0079-word-search) |
 | [0347-top-k-frequent-elements](https://github.com/Satyabrat-Ojha/6-Companies-30-Days/tree/master/0347-top-k-frequent-elements) |
 | [0212-word-search-ii](https://github.com/Satyabrat-Ojha/6-Companies-30-Days/tree/master/0212-word-search-ii) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Satyabrat-Ojha/6-Companies-30-Days/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 ## String
 |  |
 | ------- |
@@ -198,10 +199,12 @@
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Satyabrat-Ojha/6-Companies-30-Days/tree/master/0347-top-k-frequent-elements) |
 | [0208-implement-trie-prefix-tree](https://github.com/Satyabrat-Ojha/6-Companies-30-Days/tree/master/0208-implement-trie-prefix-tree) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Satyabrat-Ojha/6-Companies-30-Days/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Satyabrat-Ojha/6-Companies-30-Days/tree/master/0347-top-k-frequent-elements) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Satyabrat-Ojha/6-Companies-30-Days/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 ## Sorting
 |  |
 | ------- |
@@ -262,6 +265,7 @@
 | [0124-binary-tree-maximum-path-sum](https://github.com/Satyabrat-Ojha/6-Companies-30-Days/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Satyabrat-Ojha/6-Companies-30-Days/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Satyabrat-Ojha/6-Companies-30-Days/tree/master/0572-subtree-of-another-tree) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Satyabrat-Ojha/6-Companies-30-Days/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -276,6 +280,7 @@
 | [0124-binary-tree-maximum-path-sum](https://github.com/Satyabrat-Ojha/6-Companies-30-Days/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Satyabrat-Ojha/6-Companies-30-Days/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Satyabrat-Ojha/6-Companies-30-Days/tree/master/0572-subtree-of-another-tree) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Satyabrat-Ojha/6-Companies-30-Days/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 ## Dynamic Programming
 |  |
 | ------- |
