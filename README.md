@@ -253,6 +253,7 @@
 | [0226-invert-binary-tree](https://github.com/Satyabrat-Ojha/6-Companies-30-Days/tree/master/0226-invert-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Satyabrat-Ojha/6-Companies-30-Days/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Satyabrat-Ojha/6-Companies-30-Days/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/Satyabrat-Ojha/6-Companies-30-Days/tree/master/0572-subtree-of-another-tree) |
 ## Tree
 |  |
 | ------- |
@@ -260,6 +261,7 @@
 | [0226-invert-binary-tree](https://github.com/Satyabrat-Ojha/6-Companies-30-Days/tree/master/0226-invert-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Satyabrat-Ojha/6-Companies-30-Days/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Satyabrat-Ojha/6-Companies-30-Days/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/Satyabrat-Ojha/6-Companies-30-Days/tree/master/0572-subtree-of-another-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -273,8 +275,17 @@
 | [0226-invert-binary-tree](https://github.com/Satyabrat-Ojha/6-Companies-30-Days/tree/master/0226-invert-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Satyabrat-Ojha/6-Companies-30-Days/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Satyabrat-Ojha/6-Companies-30-Days/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/Satyabrat-Ojha/6-Companies-30-Days/tree/master/0572-subtree-of-another-tree) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Satyabrat-Ojha/6-Companies-30-Days/tree/master/0124-binary-tree-maximum-path-sum) |
+## String Matching
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/Satyabrat-Ojha/6-Companies-30-Days/tree/master/0572-subtree-of-another-tree) |
+## Hash Function
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/Satyabrat-Ojha/6-Companies-30-Days/tree/master/0572-subtree-of-another-tree) |
 <!---LeetCode Topics End-->
