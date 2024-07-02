@@ -258,6 +258,7 @@
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Satyabrat-Ojha/6-Companies-30-Days/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Satyabrat-Ojha/6-Companies-30-Days/tree/master/0572-subtree-of-another-tree) |
 | [0098-validate-binary-search-tree](https://github.com/Satyabrat-Ojha/6-Companies-30-Days/tree/master/0098-validate-binary-search-tree) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/Satyabrat-Ojha/6-Companies-30-Days/tree/master/0230-kth-smallest-element-in-a-bst) |
 ## Tree
 |  |
 | ------- |
@@ -268,6 +269,7 @@
 | [0572-subtree-of-another-tree](https://github.com/Satyabrat-Ojha/6-Companies-30-Days/tree/master/0572-subtree-of-another-tree) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Satyabrat-Ojha/6-Companies-30-Days/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/Satyabrat-Ojha/6-Companies-30-Days/tree/master/0098-validate-binary-search-tree) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/Satyabrat-Ojha/6-Companies-30-Days/tree/master/0230-kth-smallest-element-in-a-bst) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -284,6 +286,7 @@
 | [0572-subtree-of-another-tree](https://github.com/Satyabrat-Ojha/6-Companies-30-Days/tree/master/0572-subtree-of-another-tree) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Satyabrat-Ojha/6-Companies-30-Days/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/Satyabrat-Ojha/6-Companies-30-Days/tree/master/0098-validate-binary-search-tree) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/Satyabrat-Ojha/6-Companies-30-Days/tree/master/0230-kth-smallest-element-in-a-bst) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -300,4 +303,5 @@
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Satyabrat-Ojha/6-Companies-30-Days/tree/master/0098-validate-binary-search-tree) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/Satyabrat-Ojha/6-Companies-30-Days/tree/master/0230-kth-smallest-element-in-a-bst) |
 <!---LeetCode Topics End-->
