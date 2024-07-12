@@ -308,4 +308,8 @@
 | [0098-validate-binary-search-tree](https://github.com/Satyabrat-Ojha/6-Companies-30-Days/tree/master/0098-validate-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Satyabrat-Ojha/6-Companies-30-Days/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Satyabrat-Ojha/6-Companies-30-Days/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+## Database
+|  |
+| ------- |
+| [2127-employees-whose-manager-left-the-company](https://github.com/Satyabrat-Ojha/6-Companies-30-Days/tree/master/2127-employees-whose-manager-left-the-company) |
 <!---LeetCode Topics End-->
